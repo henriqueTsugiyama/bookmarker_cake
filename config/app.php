@@ -273,8 +273,8 @@ return [
             /*
              * It is recommended to set these options through your environment or app_local.php
              */
-            'username' => 'root',
-            'password' => 'DDtest2021!',
+            'username' => 'my_app',
+            'password' => 'myappC@ke00',
             'database' => 'bookmarker_db',
             /*
              * You do not need to set this flag to use full utf-8 encoding (internal default since CakePHP 3.6).
